@@ -1,16 +1,22 @@
-# currency_converter
+# 💱 Currency Converter 💱
 
-A new Flutter project.
+Welcome to the **Currency Converter** project! 🌍✨
 
-## Getting Started
+Easily convert currencies with real-time exchange rates and a user-friendly interface. This app allows you to select your currencies, enter an amount, and get instant results! 💵📈
 
-This project is a starting point for a Flutter application.
+## 🛠 Features
+- **Real-time Exchange Rates**: Fetches live data for accurate conversions. 📊
+- **User-Friendly Interface**: Designed for ease of use with animations and appealing visuals. 🎨
+- **Live Graph**: Visual representation of currency trends over time. 📉📈
+- **Multiple Currencies**: Supports a wide range of currencies including USD, EUR, GBP, LKR, and more! 💰
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 How to Use
+1. **Select Currency From**: Choose the currency you want to convert from. 🔄
+2. **Enter Amount**: Input the amount you wish to convert. ✍️
+3. **Select Currency To**: Choose the currency you want to convert to. 🔄
+4. **Press Convert**: Hit the convert button and see your results! 🚀
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/bawanisandunika/Currency-Converter.git
